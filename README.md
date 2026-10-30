@@ -1,11 +1,3 @@
-# docqa-bot
-docqa-bot - Enterprise Document Intelligence Platform.
+# DocQA Bot
 
-"An intelligent, citation-backed document assistant powered by Retrieval-Augmented Generation (RAG)."
-
-This name gives you room to expand beyond PDFs into:
-- Legal contract analysis
-- HR policy assistants
-- Technical documentation search
-- Financial report analysis
-- Enterprise knowledge bases
+DocQA Bot is a Python project for answering questions from HR policy PDFs with source-file and page citations. The repository includes synthetic sample policies for local development.
